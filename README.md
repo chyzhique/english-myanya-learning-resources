@@ -39,8 +39,8 @@ Use both. Or use only the free guides. Your call.
 2. **Fix one grammar hole.** Open [grammar/](grammar/) when a form keeps breaking your sentences.
 3. **Steal phrases you will actually say.** Use [vocabulary/](vocabulary/) for everyday English phrases and English phrases for real life.
 4. **Open your mouth.** Use [speaking/](speaking/) for how to practice English speaking alone, including English speaking practice for beginners.
-5. **Tune the sound.** [pronunciation/](pronunciation/) is for British English pronunciation practice (building out).
-6. **Keep a plan.** [resources/](resources/) collects English learning websites, apps worth testing, and a simple English study plan (building out).
+5. **Tune the sound.** Use [pronunciation/](pronunciation/) for British English pronunciation practice.
+6. **Keep a plan.** Use [resources/](resources/) for English learning websites, apps worth testing, and a simple English study plan.
 
 Fifteen honest minutes beat a heroic weekend. That is English self study that sticks.
 
@@ -54,36 +54,45 @@ Fifteen honest minutes beat a heroic weekend. That is English self study that st
 | --- | --- |
 | [A0 English](beginner/a0-english.md) | First sounds, survival phrases, tiny daily habit |
 | [A1 English](beginner/a1-english.md) | Questions, short answers, simple conversation |
-| A2 English | Coming next — longer turns, past forms, everyday tasks |
+| [A2 English](beginner/a2-english.md) | Longer turns, past forms, everyday tasks |
 
 ### Grammar — English grammar practice
 
 | Guide | Focus |
 | --- | --- |
 | [Present continuous](grammar/present-continuous.md) | Textbook vs street (British English) |
-| Present simple | Planned |
-| Past simple | Planned |
-| Can / can't | Planned |
+| [Present simple](grammar/present-simple.md) | Habits, schedules, street forms |
+| [Past simple](grammar/past-simple.md) | Stories about your week, street forms |
+| [Can / can't](grammar/can-cant.md) | Ability, permission, requests |
 
 ### Vocabulary
 
 | Guide | Focus |
 | --- | --- |
 | [Everyday English](vocabulary/everyday-english.md) | Ten English phrases for real life vs textbook lines |
-| Travel English | Planned |
-| Restaurant English | Planned |
+| [Travel English](vocabulary/travel-english.md) | Ten travel phrases for platforms, delays, tickets |
+| [Restaurant English](vocabulary/restaurant-english.md) | Ten café and table phrases vs textbook lines |
 
 ### Speaking — English speaking practice
 
 | Guide | Focus |
 | --- | --- |
 | [How to practice English speaking alone](speaking/english-speaking-practice.md) | Shadowing, recording, phrase loops |
-| Everyday conversations | Planned |
+| [Everyday conversations](speaking/everyday-conversations.md) | Neighbour, shop, work kitchen dialogues |
 
-### Pronunciation & resources (next wave)
+### Pronunciation — British English
 
-- British English for beginners / pronunciation notes → `pronunciation/`
-- English learning apps, English learning websites, English study plan → `resources/`
+| Guide | Focus |
+| --- | --- |
+| [British English pronunciation](pronunciation/british-english-pronunciation.md) | Schwa, stress, linking, shadowing drills |
+
+### Resources — plan and tools
+
+| Guide | Focus |
+| --- | --- |
+| [English learning apps](resources/english-learning-apps.md) | What apps help vs hurt; how to choose |
+| [English learning websites](resources/english-learning-websites.md) | Free sites without drowning; this repo as map |
+| [English study plan](resources/english-study-plan.md) | Weekly A0–B1 sketch for self-taught adults |
 
 We grow this tree only when a page has real content. No empty SEO shells.
 
@@ -139,19 +148,19 @@ A small set of honest Q&A beats hundreds of fake threads. Seed ideas live in [`g
 
 ---
 
-## Repo map (growing on purpose)
+## Repo map
 
 ```text
 english-myanya-learning-resources/
 ├── README.md                          ← you are here (hub)
-├── beginner/                          ← A0, A1 (A2 next)
+├── LICENSE                            ← MIT
+├── beginner/                          ← A0, A1, A2
 ├── grammar/                           ← forms for real speech
 ├── vocabulary/                        ← phrases for real life
 ├── speaking/                          ← practice without a partner
-├── pronunciation/                     ← British English sound (next)
-├── resources/                         ← apps, sites, study plan (next)
-├── github-issues-seed.json            ← Q&A drafts
-└── LICENSE                            ← coming with the next cleanup
+├── pronunciation/                     ← British English sound
+├── resources/                         ← apps, sites, study plan
+└── github-issues-seed.json            ← Q&A drafts
 ```
 
 Later, separate repos only when each has real depth (`english-speaking-practice`, `british-english-resources`, and so on). One strong hub first. A thematic network second. No spam grid.
@@ -166,6 +175,6 @@ Fixes and real learner questions are welcome. New pages should teach something c
 
 ## Licence & product
 
-Free guides in this repository are for learning. The guided product path is **[MyAnya](https://myanya.app)** — structured English course energy from A0 toward C1, with speaking and writing checks.
+Free guides in this repository are for learning ([MIT License](LICENSE)). The guided product path is **[MyAnya](https://myanya.app)** — structured English course energy from A0 toward C1, with speaking and writing checks.
 
 Learn English online with free material here. Walk the path there when you want the map done for you.
